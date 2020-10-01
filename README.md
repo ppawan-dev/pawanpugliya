@@ -13,3 +13,5 @@
 - LitElement
 - HTML5/CSS3
 - Responsive Web Design
+- Android
+- Flutter/Dart
