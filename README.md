@@ -15,3 +15,9 @@
 - Responsive Web Design
 - Android
 - Flutter/Dart
+
+### DevOps
+- Openshift
+- Kuber eyes
+- Cloudfoundry
+
