@@ -18,6 +18,6 @@
 
 ### DevOps
 - Openshift
-- Kuber eyes
+- Kubernetes
 - Cloudfoundry
 
