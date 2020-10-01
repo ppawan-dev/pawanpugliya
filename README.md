@@ -1,7 +1,7 @@
 # Resume
-##Pawan Pugliya
+## Pawan Pugliya
 
-###Fullstack developer
+### Fullstack developer
 - Java
 - Spring
 - Hibernate
