@@ -20,4 +20,5 @@
 - Openshift
 - Kubernetes
 - Cloudfoundry
+- Gitlab runner
 
