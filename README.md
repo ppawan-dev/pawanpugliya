@@ -20,11 +20,11 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 
 - Implemented various design patterns on backend and frontend frameworks.
 
-- Extensively hands-on experience on Java/J2EE application development using Core Java, Spring Boot, Spring security, Hibernate, API implementation
+- Extensive hands-on experience on Java/J2EE application development using Core Java, Spring Boot, Spring security, Hibernate, API implementation
 
 - Knowledge of messaging technology using Kafka.
 
-- Extensively hands-on experience on Web development (Web applications and single page applications) using various cross-browser technologies such as Javascript (ES6), Typescript, HTML5/CSS3, AngularJS, Angular2, Web components + google polymer + lit-element.
+- Extensive hands-on experience on Web development (Web applications and single page applications) using various cross-browser technologies such as Javascript (ES6), Typescript, HTML5/CSS3, AngularJS, Angular2, Web components + google polymer + lit-element.
 
 - Knowledge of Reactjs, MongoDB, SQL, no-SQL, MySQL
 
