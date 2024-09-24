@@ -4,8 +4,8 @@
 Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pawan-pugliya-30b24483/)
 
 ### Summary
-- 10+ years of IT experience. 8 years of experience in Java/J2EE and frontend technologies with modern javascript, 3 years of experience in Android applications development, 6 Months of experience in J2ME application development.
-
+- 15+ years of IT experience. 8 years of experience in Java/J2EE and frontend technologies with modern javascript, 3 years of experience in Android applications development
+  
 - Worked in Germany for largest insurance company in improving their insurance portal. Worked in France for the leading bank in developing the multi-country multi product bank-assurance portal.
 
 - Deep understanding of client server architecture and frontend dev tools.
@@ -24,13 +24,13 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 
 - Knowledge of messaging technology using Kafka.
 
-- Extensive hands-on experience on Web development (Web applications and single page applications) using various cross-browser technologies such as Javascript (ES6), Typescript, HTML5/CSS3, AngularJS, Angular2, Web components + google polymer + lit-element.
+- Extensive hands-on experience on Web development (Web applications and single page applications) using various cross-browser technologies such as Javascript (ES6), Typescript, HTML5/CSS3, AngularJS, Angular2, Web components + lit-element.
 
 - Knowledge of Reactjs, MongoDB, SQL, no-SQL, MySQL
 
 - Implementation using TDD/BDD using Junit, Mockito, Cucumber, Jasmine/Karma, Jest, Cypress, WebdriverIO.
 
-- Worked on CI/CD tools using Azure DevOps, Openshift, Kubernetes, Cloudfoundry, Gitlab runner and Jenkins.
+- Worked on CI/CD tools using Azure DevOps, Github actions, Openshift, Kubernetes, Cloudfoundry, Gitlab runner and Jenkins.
 
 - Containerization of frontend/micro-frontend and backend micro services using Docker.
 
@@ -56,6 +56,7 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 - Flutter/Dart
 
 ### DevOps
+- Github actions
 - Openshift
 - Kubernetes
 - Cloudfoundry
@@ -65,4 +66,5 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 ### Agile Tools
 - Azure Devops
 - JIRA
+- Confluence
 
