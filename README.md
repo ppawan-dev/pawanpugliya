@@ -12,8 +12,8 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 - Strong in **SOLID** principles, **design patterns**, and clean coding standards for both front-end and back-end systems.
 - Skilled in integrating micro-frontend and backend services using **Docker, Azure DevOps, Kubernetes**, **and CI/CD pipelines**.
 - Knowledge of Java/J2EE technologies, including **Spring Boot, Spring Security, Hibernate, and Kafka**.
-- Experienced with databases such as Oracle, MySQL, and MongoDB, and build tools like Maven, Gradle, and Webpack.
-- Agile team player and experienced scrum master, focused on application optimization, process improvement, and team collaboration.
+- Experienced with databases such as **Oracle, MySQL, and MongoDB**, and build tools like **Maven, Gradle, and Webpack**.
+- Agile **team player** and experienced scrum master, focused on **application optimization, process improvement, and team collaboration**.
 
 
 ### Skills
