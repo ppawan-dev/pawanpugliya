@@ -8,10 +8,10 @@ Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-
 - Extensive hands-on experience building responsive web applications and single-page applications using technologies like **React, Angular, LitElement, HTML5/CSS3**, and cross-browser development.
 - Deep understanding of client-server architecture, algorithms, data structures, and front-end development tools.
 - Experienced in developing scalable solutions for major insurance and banking clients across Germany and France.
-- Proficient in TDD/BDD using tools such as Jest, React Testing Library, Cypress, and Selenium.
-- Strong in SOLID principles, design patterns, and clean coding standards for both front-end and back-end systems.
-- Skilled in integrating micro-frontend and backend services using Docker, Azure DevOps, Kubernetes, and CI/CD pipelines.
-- Knowledge of Java/J2EE technologies, including Spring Boot, Spring Security, Hibernate, and Kafka.
+- Proficient in TDD/BDD using tools such as **Jest, React Testing Library, Cypress, and Selenium**.
+- Strong in **SOLID** principles, **design patterns**, and clean coding standards for both front-end and back-end systems.
+- Skilled in integrating micro-frontend and backend services using **Docker, Azure DevOps, Kubernetes**, **and CI/CD pipelines**.
+- Knowledge of Java/J2EE technologies, including **Spring Boot, Spring Security, Hibernate, and Kafka**.
 - Experienced with databases such as Oracle, MySQL, and MongoDB, and build tools like Maven, Gradle, and Webpack.
 - Agile team player and experienced scrum master, focused on application optimization, process improvement, and team collaboration.
 
